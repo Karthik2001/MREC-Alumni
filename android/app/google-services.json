@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "884637084522",
+    "firebase_url": "https://mrecalumini-56bdf.firebaseio.com",
+    "project_id": "mrecalumini-56bdf",
+    "storage_bucket": "mrecalumini-56bdf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884637084522:android:e6d086ba684720867d9313",
+        "android_client_info": {
+          "package_name": "com.app.mrec_alumni"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884637084522-8doautcmc7llj94dmeci0mi994pps9vl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNBfBQfydeUt39MUY7UeWwWjvevn_FqZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884637084522-8doautcmc7llj94dmeci0mi994pps9vl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
